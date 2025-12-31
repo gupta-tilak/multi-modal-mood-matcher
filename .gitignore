@@ -8,3 +8,4 @@ audio/data
 audio/checkpoints
 audio/emotion_model
 audio/outputs/audio_emotion_model
+venv
